@@ -1,96 +1,127 @@
-# 🔍 Arjun — Data Scientist | LLM & Multimodal AI Specialist | End-to-End ML & Analytics
-Welcome! I’m a data scientist passionate about solving real-world problems with machine learning, statistical modeling, and generative AI. My work spans churn prediction, customer analytics, document automation, and intelligent agents powered by LLMs and multimodal pipelines.
+# 🔍 **Arjun — Data Scientist | LLM & Multimodal AI Specialist | End-to-End ML & Analytics**
 
-I specialize in building end-to-end solutions — from data exploration and modeling to deployment and business integration — with a strong focus on explainability, automation, and performance.
+Welcome! I’m a **data scientist** passionate about solving real-world problems using **machine learning**, **statistical modeling**, and **generative AI**.  
+My work spans _churn prediction_, _customer analytics_, _document automation_, and _intelligent agents powered by LLMs and multimodal pipelines_.
 
-# 🔧 What I Do
-📈 Predictive & Causal Modeling
+I specialize in building **end-to-end solutions** — from data exploration and modeling to deployment and business integration — with a strong focus on _explainability_, _automation_, and _performance_.
 
-Churn prediction, time-to-event modeling, CLV forecasting
+---
 
-Uplift modeling using causal inference for decision optimization
+## 🔧 **What I Do**
 
-SHAP- and chi2-based feature explanations
+### 📈 **Predictive & Causal Modeling**
+- 🔹 Churn prediction, time-to-event modeling, CLV forecasting  
+- 🔹 Uplift modeling using causal inference for decision optimization  
+- 🔹 SHAP- and chi²-based feature explanations for transparent ML  
 
-## 📊 Data Analysis & Business Intelligence
+---
 
-Exploratory data analysis (EDA) and automated insights
+### 📊 **Data Analysis & Business Intelligence**
+- 📌 Exploratory Data Analysis (EDA) and automated insights  
+- 📌 Funnel analysis and behavioral segmentation  
+- 📌 Custom KPI dashboards and data storytelling  
 
-Funnel analysis and behavioral segmentation
+---
 
-Custom KPI dashboards and data storytelling
+### 🧠 **LLM Agents & Retrieval Systems**
+- 🤖 HR policy Q&A bots, meeting summarizers, email writing agents  
+- 🔍 Retrieval-Augmented Generation (RAG) using vector stores  
+- 📊 Excel-integrated LLM pipelines for intelligent spreadsheet automation  
 
-## 🧠 LLM Agents & Retrieval Systems
+---
 
-HR policy Q&A bots, meeting summarizers, email writing agents
+### 🖼️ **Multimodal & Document AI**
+- 🧾 PDF image extraction and visual summarization  
+- 🔍 Image-based search and generative prompting for creative workflows  
+- 🪄 Slide generation from Excel using LLMs and layout intelligence  
 
-Retrieval-augmented generation (RAG) systems using vector stores
+---
 
-Excel-integrated LLM pipelines for intelligent spreadsheet automation
+## 💡 **Notable Projects**
 
-## 🖼️ Multimodal & Document AI
+### 📉 **Customer Analytics Engine** _(Solo Project)_
+> A full-stack engine for _customer churn prediction_, _CLV forecasting_, and _uplift scoring_.
 
-PDF image extraction and visual summarization
+- ✅ Applied tree-based models and survival analysis  
+- ✅ Used SHAP for explainability and segment-level reasoning  
+- ✅ Developed custom confidence metrics for predictions  
 
-Image-based search and generative prompting for creative workflows
+---
 
-Slide generation from Excel using LLMs and layout intelligence
+### 🧾 **Auto Slide Generator**
+> An Excel-to-slide LLM pipeline that transforms raw data into polished presentations.
 
-# 💡 Notable Projects
-## 📉 Customer Analytics Engine (Solo Project)
-Built a complete system for customer churn prediction, time-to-event modeling, CLV estimation, and uplift scoring.
+- 📌 Annotated visuals, optimized text, and contextual narratives  
+- 📌 Supports financial and sales reports  
+- 📌 Visual layout and tone control with minimal manual input  
 
-Applied tree-based models and survival analysis
+---
 
-Used SHAP for explainability and segment-level reasoning
+### 🧠 **Meeting Tracker Agent**
+> Tracks project progress across transcripts and documents.
 
-Developed custom confidence metrics for predictions
+- ✅ Summarizes decisions and tracks incomplete actions  
+- ✅ Parses PDFs and transcripts to update project status  
+- ✅ Outputs updated summary PDFs with discussion insights  
 
-## 🧾 Auto Slide Generator
-Excel-to-slide LLM pipeline for transforming raw data tables into annotated, contextual presentations.
+---
 
-Added support for financial and sales reports
+### 🖼️ **PDF Visual Extractor**
+> A multimodal pipeline for visual parsing and reasoning.
 
-Includes visual layout selection and tone control
+- 🔍 Extracts images from PDFs using OCR + vision models  
+- 🔍 Enables image-based classification, visual search, and slide augmentation  
 
-## 🧠 Meeting Tracker Agent
-Agent that analyzes past meeting transcripts, PDFs, and action logs to summarize project status over time.
+---
 
-Tracks decisions, detects incomplete actions
+### ✍️ **AI Writing Assistant**
+> Personalized writing agent for enterprise emails and docs.
 
-Updates summarized PDFs with new discussion points
+- 💡 Detects recipient context using embeddings  
+- 💡 Adapts tone, structure, and language based on goal  
+- 💡 Suggests persuasive, clear edits and content adjustments  
 
-## 🖼️ PDF Visual Extractor
-Built a multimodal pipeline to extract images from PDFs and analyze them with vision-language models.
+---
 
-Enables visual search, classification, and slide augmentation
+## 📊 **Analytical Projects**
 
-## ✍️ AI Writing Assistant
-Email and document-writing agent that adapts tone, format, and language based on context.
+- **Sales Funnel Analysis**: Phase-wise tracking (e.g., _initiation → conversion_) with drop-off root cause detection  
+- **Retention Reporting**: Automated cohort dashboards with churn, survival, and retention curves  
+- **Keyword Signal Analyzer**: Chi²-based keyword impact analysis for CRM and support tickets  
+- **Temporal Drift Detection**: Detects drift in labels and feature distributions over time  
+- **Behavioral Segmentation**: Clustering + supervised labeling to derive actionable customer groups  
 
-Detects recipients using embeddings and prior communication
+---
 
-Suggests content edits for clarity and persuasion
+## 🛠️ **Tech Stack**
 
-## 📊 Analytical Projects
-Sales Funnel Analysis: Created phase-level breakdowns (initiation → conversion), identifying drop-off drivers
+### 🧑‍💻 **Languages & Tools**
+`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `XGBoost` · `PyTorch` · `LangChain` · `OpenAI API` · `SQL` · `Excel`
 
-Retention Metrics Reporting: Automated churn/retention dashboards with cohort and survival visualizations
+### 📊 **Visualization**
+`Matplotlib` · `Seaborn` · `Plotly` · `Streamlit` · `Power BI`
 
-Keyword Predictive Power Analyzer: Developed chi-squared-based keyword analysis for CRM and ticket systems
+### 🚀 **Deployment & Ops**
+`FastAPI` · `Docker` · `Azure` · `AWS` · `Git`
 
-Temporal Drift Detection: Time-aware validation of labels and feature drift monitoring in live models
+### 🔍 **Vector Databases & Embeddings**
+`FAISS` · `Chroma` · `Pinecone` · `Sentence Transformers`
 
-# 🛠️ Tech Stack
-Languages & Tools: Python, Pandas, NumPy, Scikit-learn, XGBoost, PyTorch, LangChain, OpenAI, Excel, SQL
-Visualization: Matplotlib, Seaborn, Plotly, Streamlit, Power BI
-Deployment & Ops: FastAPI, Docker, Azure, AWS, Git
-Vector DBs & Embeddings: FAISS, Chroma, Pinecone, Sentence Transformers
+---
 
-# 🚀 Let’s Connect
-I enjoy working on cutting-edge applications of ML and AI — especially those that blend creativity, data, and decision-making. Open to collaborations, consulting opportunities, and interesting use cases!
+## 🚀 **Let’s Connect**
 
-# 📫 Reach Me:
+I enjoy working at the intersection of **data, creativity, and decision-making**.  
+Open to _collaborations_, _consulting_, and _LLM use cases_ that bring AI to real-world business workflows.
 
-[LinkedIn](https://www.linkedin.com/in/arjun-v-5110b11a9/)
-[Email](mailto:arjunvijayan.452@gmail.com)
+---
+
+## 📫 **Reach Me**
+
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/arjun-v-5110b11a9/)
+- 📧 [**Email**](mailto:arjunvijayan.452@gmail.com)
+
+---
+
+_Thanks for visiting my portfolio!_ 🌟  
+Let’s build something meaningful together.
